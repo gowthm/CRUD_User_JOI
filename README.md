@@ -1,2 +1,13 @@
-# CRUD_User_JOI
-CRUD operation for users with joi validation along with Node, MongoDB, Mongoose.
+# customer-crud-operation
+User Login with CRUD operation using Express and MongoDB
+# installing
+npm install
+# Run
+npm start
+# Server Port
+3030
+# Get User Token
+http://localhost:3030/user/login
+# Example User Save
+http://localhost:3030/user/add
+
